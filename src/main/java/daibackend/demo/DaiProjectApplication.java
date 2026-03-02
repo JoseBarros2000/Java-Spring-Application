@@ -24,7 +24,7 @@ import org.springframework.mail.javamail.JavaMailSenderImpl;
 @EntityScan(basePackageClasses = { DaiProjectApplication.class, Jsr310JpaConverters.class })
 public class DaiProjectApplication implements ServletContextListener {
 
-   /* protected final Logger log = Logger.getLogger(String.valueOf(this.getClass()));
+   /* protected final Logger log = Logger.getLogger(String.valueOf(this.getClass()));f
 
 
 
